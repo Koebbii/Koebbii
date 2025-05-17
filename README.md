@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+I'm starting of with GitHub and programming and looking forward to meet some people.
 <!--
 **Koebbii/Koebbii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
